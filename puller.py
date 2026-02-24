@@ -54,7 +54,8 @@ for page in range(1, page_count + 1):
         yearAired = item.get("yearFirstAired")
         mp4 = item.get("mp4Uri")
         linkid = mp4.split("/")[-1].replace(".mp4", "")
-
+        print(linkid)
+        print(name)
         if mp4:
             mp4_links.add(mp4)
 
