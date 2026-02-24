@@ -1,0 +1,12 @@
+{
+    "categoryId": 4,
+    "yearStart": 2000,
+    "yearEnd": 2005,
+    "fileLocation": "./outfiles",
+    "linksFile": "OutputLinks.txt",
+    "OutputTitleFile": "OuputTitleMap.json",
+    "query": "",
+    "decade": "",
+    "cat": "Commercials",
+    "downloadLoc": "./downloads"
+}
