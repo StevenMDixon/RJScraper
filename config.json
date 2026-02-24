@@ -1,11 +1,11 @@
 {
-    "categoryId": 4,
+    "categoryId": 6,
     "yearStart": 2000,
     "yearEnd": 2005,
     "fileLocation": "./outfiles",
     "linksFile": "OutputLinks.txt",
     "OutputTitleFile": "OuputTitleMap.json",
-    "query": "",
+    "query": "Cartoon Network",
     "decade": "",
     "cat": "Commercials",
     "downloadLoc": "./downloads"
